@@ -55,6 +55,5 @@ You explore, poke around, and make friends with the numbers 👀📊—so you do
 - 🧬 Feature engineering ideas
 - 🚀 Prep for modeling and deeper analysis
 
-Let me know if you'd like this packaged for your blog layout or paired with Python code for demos!
 
 
