@@ -13,7 +13,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="vertical-align: middle;">
   </a>
 </div>
-
+</div>
   
   # 📊 Introduction to Exploratory Data Analysis (EDA)
 
