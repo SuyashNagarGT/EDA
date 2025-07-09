@@ -66,11 +66,24 @@ You explore, poke around, and make friends with the numbers 👀📊—so you do
 
 > _Understanding your data is like meeting the cast before writing the story. You need to know their traits, quirks, and secrets!_
 
-🧹 3. Data Cleaning
-- ❓ Handle missing values
-- 🔁 Remove duplicates
-- 🛠️ Fix data types
-- 🚨 Detect & treat outliers
+## 🧹 3. Data Cleaning
+
+Once you've peeked inside the dataset, it’s time to roll up your sleeves and tidy up. Think of this phase as digital spring cleaning 🧽💻
+
+### 🔧 Common Cleaning Tasks:
+- ❓ **Handle missing values**  
+  Drop rows, fill with mean/median, or use advanced imputation like KNN
+
+- 🔁 **Remove duplicates**  
+  Use `df.duplicated()` to find them, then drop with `df.drop_duplicates()`
+
+- 🛠️ **Fix data types**  
+  Convert columns using `pd.to_numeric()`, `pd.to_datetime()`, or `astype()`
+
+- 🚨 **Detect & treat outliers**  
+  Spot them using boxplots or Z-scores; handle using winsorization or domain-specific rules
+
+> _“Clean data is trustworthy data—like prepping ingredients before a gourmet recipe.”_
 
 📊 4. Univariate Analysis
 - 📈 Histograms, boxplots for numerical features
