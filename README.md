@@ -14,14 +14,8 @@
   </a>
 </div>
 
-
-
-# 📊 Exploratory Data Analysis: Uncovering Stories in Data
--------------
-
-
-
-# Introduction to Exploratory Data Analysis (EDA)
+  
+  # 📊 Introduction to Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis (EDA) is the process of examining, summarizing, and visualizing a dataset to uncover its key characteristics—like structure, patterns, and anomalies—before diving into formal modeling or drawing conclusions.
 
