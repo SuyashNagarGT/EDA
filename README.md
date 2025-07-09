@@ -3,7 +3,7 @@
   <img 
     src="https://raw.githubusercontent.com/SuyashNagarGT/EDA/main/EDA2.png" 
     alt="Exploratory Data Analysis: Uncovering Stories in Data" 
-    style="width: 100%; max-height: 180px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);"
+    style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);"
   />
 </div>
 <!-- Right-Aligned Contact Strip -->
