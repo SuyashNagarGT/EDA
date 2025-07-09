@@ -12,6 +12,7 @@
   📧 <a href="mailto:suyash.nagar@gmail.com">suyash.nagar@gmail.com</a> &nbsp;|&nbsp; 
   🔗 <a href="https://www.linkedin.com/in/suyashnagar" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="vertical-align: middle;">
+    ![Visitor Count](https://profile-counter.glitch.me/SuyashNagarGT/count.svg)
   </a>
 </div>
 
