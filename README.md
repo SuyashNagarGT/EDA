@@ -34,11 +34,11 @@ You explore, poke around, and make friends with the numbers 👀📊—so you do
 
 📥 1. Data Collection & Loading
 
-  <span style="color:green;"><em>Data collection is the process of gathering raw information from one or more sources—like CSV files, databases, APIs or sensor feeds—so you have the data you need. Data loading is the step where you import that collected data into your analysis environment so it’s ready for cleaning and exploration.</em></span>
+<span style="color:green;"><em>Data collection is the process of gathering raw information from one or more sources—like CSV files, databases, APIs or sensor feeds—so you have the data you need. Data loading is the step where you import that collected data into your analysis environment so it’s ready for cleaning and exploration.</em></span>
 
 🌐 2. Collect from sources like
 
-    -   Flat Files (CSV, Excel or JSON) stored locallu or on cloud storage
+    -   Flat Files (CSV, Excel or JSON) stored locally or on cloud storage
     -   Relational (such as MYSQL, PostgreSQL) and NoSQL Databases (Mongo and cassandra)  for semi structured data
     -   Web APIs
     -   Streaming platform for real time feed
@@ -55,9 +55,16 @@ You explore, poke around, and make friends with the numbers 👀📊—so you do
 <span style="color:green;"><em>This is where you bring the data into your workspace—like opening a treasure chest before exploring it!</em></span>
 
 🔍 2. Understand the Data
-- 📄 df.head() → View first few rows
-- 📏 df.shape → Know the size of data
-- 🧠 df.info() → Check types & missing values
+
+<span style="color:green;"><em>Before diving into cleaning or analysis, it's crucial to grasp what your dataset looks like and how it's structured.</em></span>
+
+🧪 Key Techniques:
+- 📄 `df.head()` → Displays the first few rows of the dataset for a quick preview  
+- 📏 `df.shape` → Tells you the number of rows and columns  
+- 🧠 `df.info()` → Reveals data types and highlights missing values  
+- 📊 `df.describe()` → Provides summary statistics for numerical columns  
+
+> _Understanding your data is like meeting the cast before writing the story. You need to know their traits, quirks, and secrets!_
 
 🧹 3. Data Cleaning
 - ❓ Handle missing values
