@@ -1,16 +1,17 @@
-------------------------------
-<!-- Exploratory Data Analysis GitHub Header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SuyashNagarGT/EDA/main/assets/eda-header.png" alt="Exploratory Data Analysis: Uncovering Stories in Data" width="100%">
-</p>
-
-<!-- Exploratory Data Analysis GitHub Header -->
+<!-- Sleek Exploratory Data Analysis GitHub Header -->
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/SuyashNagarGT/EDA/main/assets/eda-header.png" 
+    src="https://raw.githubusercontent.com/SuyashNagarGT/EDA/main/EDA2.png" 
     alt="Exploratory Data Analysis: Uncovering Stories in Data" 
-    style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.15);"
+    style="height: 400px; width: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);"
   />
+<!-- Right-Aligned Contact Strip -->
+<div align="right" style="font-size: 16px;">
+  👋 <strong>Suyash Nagar</strong> &nbsp;|&nbsp; 
+   <a href="mailto:suyash.nagar@gmail.com">suyash.nagar@gmail.com</a> &nbsp;|&nbsp; 
+  <a href="https://www.linkedin.com/in/suyashnagar" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="vertical-align: middle;">
+  </a>
 </div>
 
 # 📊 Exploratory Data Analysis: Uncovering Stories in Data
