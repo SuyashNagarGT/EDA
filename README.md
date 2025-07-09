@@ -63,7 +63,7 @@ You explore, poke around, and make friends with the numbers 👀📊—so you do
 - 🧠 `df.info()` → Reveals data types and highlights missing values  
 - 📊 `df.describe()` → Provides summary statistics for numerical columns  
 
-> _Understanding your data is like meeting the cast before writing the story. You need to know their traits, quirks, and secrets!_
+<span style="color:green;"><em>Understanding your data is like meeting the cast before writing the story. You need to know their traits, quirks, and secrets!</em></span>
 
 ## 🧹 3. Data Cleaning
 
