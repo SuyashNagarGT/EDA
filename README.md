@@ -5,6 +5,7 @@
     alt="Exploratory Data Analysis: Uncovering Stories in Data" 
     style="width: 100%; max-height: 180px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);"
   />
+</div>
 <!-- Right-Aligned Contact Strip -->
 <div align="right" style="font-size: 16px;">
   👋 <strong>Suyash Nagar</strong> &nbsp;|&nbsp; 
@@ -13,7 +14,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="vertical-align: middle;">
   </a>
 </div>
-</div>
+
   
   # 📊 Introduction to Exploratory Data Analysis (EDA)
 
