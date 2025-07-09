@@ -1,7 +1,17 @@
+------------------------------
 <!-- Exploratory Data Analysis GitHub Header -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/SuyashNagarGT/EDA/main/assets/eda-header.png" alt="Exploratory Data Analysis: Uncovering Stories in Data" width="100%">
 </p>
+
+<!-- Exploratory Data Analysis GitHub Header -->
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/SuyashNagarGT/EDA/main/assets/eda-header.png" 
+    alt="Exploratory Data Analysis: Uncovering Stories in Data" 
+    style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.15);"
+  />
+</div>
 
 # 📊 Exploratory Data Analysis: Uncovering Stories in Data
 -------------
